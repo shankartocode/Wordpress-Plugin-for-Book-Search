@@ -6,6 +6,8 @@ I have used WPPB boiler plate to complete the task,
 Extract the files to the plugin folder in the wordpress.
 Activate in the admin backend.
 You can see an option library books where you can create new books.
+After creating few books,
+Add this shortcode [book_display_and_filter] inside the page where you want to see the search from and books.
 
 It has,
 Price, 
