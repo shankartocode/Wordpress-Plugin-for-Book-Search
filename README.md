@@ -6,13 +6,13 @@ Activate in the admin backend.
 You can see an option library books where you can create new books.
 
 It has,
-Price	
-ISBN Number	
-Date added to library	
-Source	
-Rights	
-Published Year	
-Rating	
+Price, 
+ISBN Number, 
+Date added to library, 
+Source, 
+Rights, 
+Published Year, 
+Rating, 
 Language
 
 as an custom meta box 
