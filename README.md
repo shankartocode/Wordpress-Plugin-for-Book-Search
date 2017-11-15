@@ -1,6 +1,8 @@
 # Wordpress-Plugin-for-Book-Search
 Plugin is based on library book search.
 
+I have used WPPB boiler plate to complete the task,
+
 Extract the files to the plugin folder in the wordpress.
 Activate in the admin backend.
 You can see an option library books where you can create new books.
